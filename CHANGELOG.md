@@ -1,6 +1,30 @@
 # Changelog
 
 
+## [8.3.0](https://github.com/MTES-MCT/ecobalyse/compare/v8.2.0..v8.3.0) (2025-12-17)
+
+
+
+### 🚀 Features
+
+- *(admin,ui)* Render comment column in component admin ([#1639](https://github.com/MTES-MCT/ecobalyse/issues/1639))
+- Add packaging from ctcpa ([#1615](https://github.com/MTES-MCT/ecobalyse/issues/1615))
+- *(bo)* Add the token usage state to the users table ([#1633](https://github.com/MTES-MCT/ecobalyse/issues/1633))
+
+### 🪲 Bug Fixes
+
+- *(admin,ui)* Prevent unscrollable ui state ([#1636](https://github.com/MTES-MCT/ecobalyse/issues/1636))
+- *(explorer)* Sort string columns alphabetically ([#1643](https://github.com/MTES-MCT/ecobalyse/issues/1643))
+
+### ⚙️ Miscellaneous Tasks
+
+- Cache elm deps ([#1635](https://github.com/MTES-MCT/ecobalyse/issues/1635))
+- Serialize the JournalEntries values as string ([#1634](https://github.com/MTES-MCT/ecobalyse/issues/1634))
+- Upgrade node dependencies, 2025-12-15 ([#1644](https://github.com/MTES-MCT/ecobalyse/issues/1644))
+- Remove pef score ([#1628](https://github.com/MTES-MCT/ecobalyse/issues/1628))
+- Remove obsolete suffix and cleanup ([#1651](https://github.com/MTES-MCT/ecobalyse/issues/1651))
+
+
 ## [8.2.0](https://github.com/MTES-MCT/ecobalyse/compare/v8.1.0..v8.2.0) (2025-12-10)
 
 
